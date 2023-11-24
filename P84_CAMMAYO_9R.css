@@ -1,0 +1,25 @@
+body {
+  background-image: url('eagle.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center
+}
+
+div {
+	padding: 10px;
+	margin: 15px;
+	border: thick dashed white;
+	text-align: center;
+	color: white;
+	background-color: black;
+width: 100%;
+
+}
+
+p {
+	text-align: left
+}
+
+
+

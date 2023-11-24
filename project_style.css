@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+body{
+	background-color:#5987a6;
+}
+
+h1 {
+	 	color: ;
+	 	text-align: center;
+	 	font-size: 40px;
+	 	font-weight: lighter;
+	 	letter-spacing: 13px
+	    }
+ table {
+ 	width:100%;
+ 	height:100%;
+ 	border-color: #987067;
+ }
+ td	{
+ 	te;
+ }
+	table,th,td {
+	    	margin-left: auto;
+	    	margin-right: auto;
+	    	border: 4px solid #987067;
+	    	padding: 15px;
+	    	border-color: 
+	    	}
+th.characters {
+	font-size: 40px
+	letter-spacing: 3px;
+}
+	    	 table{
+ 	width:100%;
+ 	height:100%;
+ }
+
+th.mealplan {
+	letter-spacing: 30px;
+	font-size: 20px;
+	font-family: sans-serif;
+	background-color: #6a6c9f;
+}
+th.days{
+	
+background-color: #678f98;
+}
+th.breakfast {
+	
+
+	background-color: #678f98;
+}
+th.lunch {
+	
+	 background-color: #678f98;
+}   
+th.dinner {
+	
+	background-color: #678f98;
+}
+td,th {
+	font-family: monospace;
+}
+td {
+	text-align: center
+} 
+th {
+	letter-spacing: 5px
+	font-color:#987067;
+
+}

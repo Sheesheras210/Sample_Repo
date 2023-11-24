@@ -1,0 +1,13 @@
+div {
+	padding: 20px;
+	margin: 20px;
+	border: 10px double black;
+	text-align: center;
+color: white;
+}
+
+#first {background-color: red;
+width: 50%;}
+
+#second {background-color: green;
+width: 50%;}

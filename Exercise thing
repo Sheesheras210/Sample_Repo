@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercise thing</title>
+</head>
+<body>
+<h1>Thsese are my favorite things</h1>
+<h3>Favorite Food</h3>
+<ul>
+	<li>Chicken Wings</li>
+		<li>Samgyeopsal</li>
+			<li>Alfredo</li>
+				<li>Bacsilog</li>
+</ul>
+<h3>Favorite Pastime</h3>
+<ul>
+	<li>Playing with friends</li>
+	<li>Going out with friends if possible</li>
+	<li>Reading Bible and other books</li>
+	<li>Watching</li>
+</ul>
+
+</body>
+</html>
